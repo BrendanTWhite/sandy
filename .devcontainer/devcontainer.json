@@ -1,4 +1,6 @@
 {
-    "name": "BrendanTWhite PHP",
-    "image":"mcr.microsoft.com/devcontainers/php"
+    "image":"mcr.microsoft.com/devcontainers/php",
+    "forwardPorts": [8000],
+
+    "name": "BrendanTWhite PHP"
 }
