@@ -1,3 +1,4 @@
 {
+    "name": "BrendanTWhite PHP",
     "image":"mcr.microsoft.com/devcontainers/php"
 }
